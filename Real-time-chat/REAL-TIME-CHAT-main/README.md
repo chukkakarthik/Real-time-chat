@@ -12,22 +12,3 @@ This is a real-time chat application built using [Socket.IO](https://socket.io/)
 
 
 
-## Installation
-
-To run this application locally, follow these steps:
-
-1. Clone the repository:
-
-   bash
-   git clone https:https://github.com/PavanTamadana/REAL-TIME-CHAT.git
-2. Open backend folder and run it:
-
-   bash
-   npm start
-
-4. Open frontend folder and run it:
-
-   ```bash
-   cd frontend
-   npm start
-5. Now open your browser and open  http://localhost:3000:
